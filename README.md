@@ -26,6 +26,12 @@ After completing this lab, write a few sentences about:
 - How do you plan to expand this portfolio?
 
 [Write your reflection here]
+What was easiest for you in this lab?
+    The easiest thing for me was completing the writing part of the index page, and also the the use of "strong" and "em" to bold and italics certain words. It just seemed to click in my mind.
+What was most confusing or tricky?
+    Getting images to work took the longest, understanding the directory was difficult because I kept putting in the incorrect pathing.
+What's one idea you'd like to add to your portfolio later?
+    I would hope to be able to change colors in the pages soon, I think it would really bring some life to my pages and get it away from the flat black and white.
 
 ---
 
